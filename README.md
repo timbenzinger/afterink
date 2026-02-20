@@ -4,16 +4,6 @@ A Chrome-only browser tool for applying animated turbulent displacement to PNG a
 
 ---
 
-## Quick start
-
-```bash
-npm install
-npm run dev       # http://localhost:3000
-npm run build     # production build
-```
-
----
-
 ## Project structure
 
 ```
